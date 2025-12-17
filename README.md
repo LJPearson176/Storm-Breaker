@@ -109,3 +109,11 @@ sudo python3 st.py
 > To run ngrok on termux you need to enable your personal hotspot and cellular network.
 
 </p>
+
+## Repository Map
+
+The repository contains the following top-level directories:
+
+- **`modules/`**: Contains Python helper modules and core logic used by the main application script.
+- **`storm-web/`**: Holds the source code for the web interface, including PHP files, templates, and assets.
+- **`.imgs/`**: Stores images and screenshots used in the project documentation.
